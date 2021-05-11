@@ -17,6 +17,7 @@
     "author": "Hyperledger",
     "license": "Apache-2.0",
     "dependencies": {
+        "@ravenpod/ravenpod-cc-dc": "^1.0.4",
         "fabric-contract-api": "^2.0.0",
         "fabric-shim": "^2.0.0"
     },
